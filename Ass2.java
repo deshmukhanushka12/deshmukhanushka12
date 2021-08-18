@@ -1,4 +1,4 @@
-package com.google;
+package com.training;
 
 public class Ass2 {
     public static void main(String[] args) {
