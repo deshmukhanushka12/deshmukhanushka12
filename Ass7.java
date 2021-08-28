@@ -1,8 +1,4 @@
 package com.google;
-/*
-Author: Vaibhavi Dixit
-code for generate ID card of employees
-* */
 abstract class Employee{
     //fields for employee
     int idNo;
